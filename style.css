@@ -1,0 +1,96 @@
+body{
+  text-align:center;
+  padding-top:0;
+  margin: 0;
+  font-family: "Montserrat";
+
+}
+
+.name{
+  font-size:5rem;
+  font-family: "Sacramento",cursive;
+  padding: 7% 15% 0;
+}
+.top{
+  background-image: url("images/bg.png");
+  background-size: cover;
+  color:#fff;
+  padding: 2% 7% 35%;
+
+
+}
+.intro{
+  padding: 0 15% ;
+  font-size: 1rem;
+}
+
+h2{
+  font-size: 3rem;
+  padding-top: 3%
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.description{
+  padding: 3% 15% 5%;
+
+}
+
+p{
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+.skill,.hire,#contact{
+  background-color:#EEF1FF;
+}
+hr{
+  margin:0;
+}
+.skill-row{
+  text-align: left;
+  line-height: 1;
+  margin: 15% 0;
+}
+.gif{
+  margin-right: 30px;
+  width:10%;
+  float:left;
+}
+.gif2{
+  margin-left: 30px;
+  width:10%;
+  float:right;
+}
+
+.anchor{
+
+  color: black;
+  text-decoration-color: black;
+}
+.fdiv{
+  margin:10px;
+  padding:5%;
+
+}
+.fa-brands{
+  margin:10px;
+}
+.works-row{
+  margin-top: 15%;
+  text-align: left;
+}
+.wp{
+  font-size: 1rem;
+  margin-bottom: 3%;
+}
+.worksimage{
+  margin-bottom: 3%;
+}
+#contact{
+  padding-bottom: 2px;
+}
+#contact a{
+  color:black;
+}
